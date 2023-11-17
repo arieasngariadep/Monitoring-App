@@ -1,0 +1,7 @@
+@include('javascript.RKDA.Switcher')
+@include('javascript.RKDA.Principal')
+@include('javascript.RKDA.E-Channel')
+@include('javascript.RKDA.AntarBank.TrxWdVsTrf')
+@include('javascript.RKDA.AntarBank.AmountWdVsTrf')
+@include('javascript.RKDA.AntarBank.TrxKwjVsHak')
+@include('javascript.RKDA.AntarBank.AmountKwjVsHak')
